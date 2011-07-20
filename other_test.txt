@@ -1,4 +1,4 @@
-ooooioOhai
+ooooooooooioOhai
 again.
 COMMIT
 o..hai.
@@ -8,6 +8,7 @@ hi
 k
 KK OK
 YEAH
+er...
 OK
 ppl
 how's it going?
@@ -17,6 +18,7 @@ you?
 what's up?
 not bad
 k, good
+wat?
 good to hear it
 right.
 k then.
